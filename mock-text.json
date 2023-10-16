@@ -51,5 +51,52 @@
     "susan.moore@tyrellcorp.com",
     "thomas.thompson@tyrellcorp.com",
     "william.rodriguez@tyrellcorp.com"
-  ]
+  ],
+  "Emails Weyland": [
+  "barbara.anderson@weylandindustries.com",
+  "charles.hernandez@weylandindustries.com",
+  "david.jackson@weylandindustries.com",
+  "dorothy.white@weylandindustries.com",
+  "elizabeth.wilson@weylandindustries.com",
+  "james.smith@weylandindustries.com",
+  "jennifer.garcia@weylandindustries.com",
+  "john.williams@weylandindustries.com",
+  "joseph.martin@weylandindustries.com",
+  "linda.miller@weylandindustries.com",
+  "margaret.martinez@weylandindustries.com",
+  "maria.thomas@weylandindustries.com",
+  "mary.johnson@weylandindustries.com",
+  "michael.davis@weylandindustries.com",
+  "patricia.brown@weylandindustries.com",
+  "richard.taylor@weylandindustries.com",
+  "robert.jones@weylandindustries.com",
+  "susan.moore@weylandindustries.com",
+  "thomas.thompson@weylandindustries.com",
+  "william.rodriguez@weylandindustries.com"
+],
+  "Dates": [
+  "Nov 21, 2023",
+  "Nov 20, 2023",
+  "Nov 19, 2023",
+  "Nov 18, 2023",
+  "Nov 17, 2023",
+  "Nov 16, 2023",
+  "Nov 15, 2023",
+  "Nov 14, 2023",
+  "Nov 13, 2023",
+  "Nov 12, 2023"
+  ],
+  "Dates-Times": [
+  "Nov 21, 2023 5:00 PM",
+  "Nov 20, 2023 9:00 AM",
+  "Nov 19, 2023 4:30 PM",
+  "Nov 18, 2023 9:30 AM",
+  "Nov 17, 2023 4:00 PM",
+  "Nov 16, 2023 10:00 AM",
+  "Nov 15, 2023 3:30 PM",
+  "Nov 14, 2023 10:30 AM",
+  "Nov 13, 2023 3:00 PM",
+  "Nov 12, 2023 11:00 AM"
+]
+
 }
